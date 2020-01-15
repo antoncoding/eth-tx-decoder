@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/eth_decoder_online/static/css/main.d1b05096.chunk.css",
+    "main.js": "/eth_decoder_online/static/js/main.4517f0ca.chunk.js",
+    "main.js.map": "/eth_decoder_online/static/js/main.4517f0ca.chunk.js.map",
+    "runtime-main.js": "/eth_decoder_online/static/js/runtime-main.6161e37c.js",
+    "runtime-main.js.map": "/eth_decoder_online/static/js/runtime-main.6161e37c.js.map",
+    "static/js/2.81e9512f.chunk.js": "/eth_decoder_online/static/js/2.81e9512f.chunk.js",
+    "static/js/2.81e9512f.chunk.js.map": "/eth_decoder_online/static/js/2.81e9512f.chunk.js.map",
+    "index.html": "/eth_decoder_online/index.html",
+    "precache-manifest.5d403781bee37ef7fea1cb87827fdd8e.js": "/eth_decoder_online/precache-manifest.5d403781bee37ef7fea1cb87827fdd8e.js",
+    "service-worker.js": "/eth_decoder_online/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/eth_decoder_online/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.81e9512f.chunk.js.LICENSE": "/eth_decoder_online/static/js/2.81e9512f.chunk.js.LICENSE",
+    "static/media/logo.svg": "/eth_decoder_online/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6161e37c.js",
+    "static/js/2.81e9512f.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.4517f0ca.chunk.js"
+  ]
+}
