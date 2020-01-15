@@ -6,8 +6,7 @@ import { Main, Header } from '@aragon/ui';
 import './App.css';
 
 function App() {
-  const [sidePanelOpened, setSidePanelOpened] = useState(false);
-
+  
   return (
     <Main>
       <Header />
