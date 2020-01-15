@@ -21,7 +21,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://antoncoding.github.io/eth-decoder-online/",
+  "homepage": "https://antoncoding.github.io/eth-tx-decoder/",
   "eslintConfig": {
     "extends": "react-app"
   },
