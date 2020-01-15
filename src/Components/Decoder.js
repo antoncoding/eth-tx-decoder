@@ -81,7 +81,6 @@ export default function Decoder() {
               <TextInput
                 label={'Raw'}
                 value={hex}
-                autofocus={true}
                 wide={true}
                 onChange={(event) => setTxHex(event.target.value)}
               />
