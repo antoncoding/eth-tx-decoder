@@ -1,12 +1,18 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Decoder from './Components/Decoder';
+
+import { Main, Header } from '@aragon/ui';
+
 import './App.css';
 
 function App() {
+  const [sidePanelOpened, setSidePanelOpened] = useState(false);
+
   return (
-    <div className="App">
-      <header className="App-header">
-      </header>
-    </div>
+    <Main>
+      <Header />
+      <Decoder />
+    </Main>
   );
 }
 
