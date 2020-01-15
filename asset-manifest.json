@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/eth-decoder-online/static/css/main.d1b05096.chunk.css",
-    "main.js": "/eth-decoder-online/static/js/main.18e68f93.chunk.js",
-    "main.js.map": "/eth-decoder-online/static/js/main.18e68f93.chunk.js.map",
-    "runtime-main.js": "/eth-decoder-online/static/js/runtime-main.58e2a739.js",
-    "runtime-main.js.map": "/eth-decoder-online/static/js/runtime-main.58e2a739.js.map",
-    "static/js/2.af55302a.chunk.js": "/eth-decoder-online/static/js/2.af55302a.chunk.js",
-    "static/js/2.af55302a.chunk.js.map": "/eth-decoder-online/static/js/2.af55302a.chunk.js.map",
-    "index.html": "/eth-decoder-online/index.html",
-    "precache-manifest.3e6e9a55ce7b4f6549e23d9bbdb3457c.js": "/eth-decoder-online/precache-manifest.3e6e9a55ce7b4f6549e23d9bbdb3457c.js",
-    "service-worker.js": "/eth-decoder-online/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/eth-decoder-online/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.af55302a.chunk.js.LICENSE": "/eth-decoder-online/static/js/2.af55302a.chunk.js.LICENSE"
+    "main.css": "/eth-tx-decoder/static/css/main.d1b05096.chunk.css",
+    "main.js": "/eth-tx-decoder/static/js/main.3f6312a1.chunk.js",
+    "main.js.map": "/eth-tx-decoder/static/js/main.3f6312a1.chunk.js.map",
+    "runtime-main.js": "/eth-tx-decoder/static/js/runtime-main.d5144c22.js",
+    "runtime-main.js.map": "/eth-tx-decoder/static/js/runtime-main.d5144c22.js.map",
+    "static/js/2.638389d1.chunk.js": "/eth-tx-decoder/static/js/2.638389d1.chunk.js",
+    "static/js/2.638389d1.chunk.js.map": "/eth-tx-decoder/static/js/2.638389d1.chunk.js.map",
+    "index.html": "/eth-tx-decoder/index.html",
+    "precache-manifest.5553a92a10a158609c63f0d5b148cc98.js": "/eth-tx-decoder/precache-manifest.5553a92a10a158609c63f0d5b148cc98.js",
+    "service-worker.js": "/eth-tx-decoder/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/eth-tx-decoder/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.638389d1.chunk.js.LICENSE": "/eth-tx-decoder/static/js/2.638389d1.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.58e2a739.js",
-    "static/js/2.af55302a.chunk.js",
+    "static/js/runtime-main.d5144c22.js",
+    "static/js/2.638389d1.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.18e68f93.chunk.js"
+    "static/js/main.3f6312a1.chunk.js"
   ]
 }
